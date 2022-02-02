@@ -1,4 +1,5 @@
 # Event-based, Direct Camera Tracking
+# This is a forked branch from Bryner's code. Please refer to the initial branch if you have questions.
 
 [![Event-based, Direct Camera Tracking](./doc/img/video_preview.png)](https://youtu.be/ISgXVgCR-lE)
 
