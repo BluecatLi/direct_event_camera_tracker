@@ -18,7 +18,7 @@ MainGUI::MainGUI(const YAML::Node& config)
     plot_matrix(new PlotMatrix(*this)),
     last_published_pose_marker_id(0)
 {
-    std::cout << "Eigen Version: " << EIGEN_WORLD_VERSION << "." << EIGEN_MAJOR_VERSION << "." << EIGEN_MINOR_VERSION << std::endl;
+    // std::cout << "Eigen Version: " << EIGEN_WORLD_VERSION << "." << EIGEN_MAJOR_VERSION << "." << EIGEN_MINOR_VERSION << std::endl;
 
     ui.setupUi(this);
 
